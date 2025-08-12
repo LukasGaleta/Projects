@@ -7,6 +7,9 @@ You can learn more about me and my work by visiting my profile or contacting me 
 
 # Projects Overview
 
+### CV
+**CV:** `0_CV Lukas_Galeta.pdf` – My professional CV detailing my experience and skills.
+
 ### Diploma Thesis: Asset Allocation with Reinforcement Learning
 - **PDF:** `Diploma thesis Asset_allocation_with_reinforcement_learning-Lukas_Galeta.pdf`  
 - **Notebook:** `Diploma thesis Reinforcement_Learning_Portfolio_Allocation_Dimploma_Thesis_pynb.ipynb`  
@@ -25,4 +28,4 @@ Applied machine learning project utilizing large language models (LLMs) for natu
 
 # Additional Files
 
-- **CV:** `0_CV Lukas_Galeta.pdf` – My professional CV detailing my experience and skills.
+
