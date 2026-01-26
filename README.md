@@ -1,31 +1,62 @@
-# About Me
+# Lukas Galeta – Portfolio Repository
 
-I’m Lukas Galeta, a quantitative analyst with a passion for machine learning, algorithmic trading, and reinforcement learning applied to finance.  
-You can learn more about me and my work by visiting my profile or contacting me directly.
+Welcome to my GitHub repository. This repository serves as a collection of my academic, research, and applied projects in quantitative finance, machine learning, and data science. Most of the work focuses on algorithmic trading, financial modeling, and practical applications of ML in banking and fintech.
 
----
+## Repository Structure
 
-# Projects Overview
+- **CERN ROOT lib**  
+  Experiments and utilities related to CERN ROOT libraries.
 
-### CV
-**CV:** `0_CV Lukas_Galeta.pdf` – My professional CV detailing my experience and skills.
+- **Diploma thesis**  
+  Materials, code, and documentation related to my diploma thesis.
 
-### Diploma Thesis: Asset Allocation with Reinforcement Learning
-- **PDF:** `Diploma thesis Asset_allocation_with_reinforcement_learning-Lukas_Galeta.pdf`  
-- **Notebook:** `Diploma thesis Reinforcement_Learning_Portfolio_Allocation_Dimploma_Thesis_pynb.ipynb`  
-Explores portfolio allocation using reinforcement learning methods. Includes experiments and results supporting my master thesis.
+- **Quant research framework**  
+  A quantitative research framework for developing, testing, and evaluating trading strategies.  
+  Includes:
+  - Backtesting logic  
+  - Strategy evaluation  
+  - Risk management concepts  
+  - Modular design for research experiments  
 
-### OptionsCoveredCall.ipynb  
-A covered call options trading strategy backtester and analysis implemented in Python.
+- **Should I buy flat in Brno?**  
+  A data-driven analysis project focused on real estate decision-making in Brno, using financial and economic indicators.
 
-### Crypto_LongShort_Momentum.ipynb  
-A Jupyter notebook implementing momentum-based long/short cryptocurrency trading strategies with backtesting and analysis.
+- **VP Bank KYC advisor demo**  
+  Demonstration project for a KYC advisory system, showing how ML/LLM tools can be applied in banking workflows.
 
-### LLM_Applied_ML_proj.ipynb  
-Applied machine learning project utilizing large language models (LLMs) for natural language tasks.
+## Notebooks
 
----
+- **Crypto_LongShort_Momentum.ipynb**  
+  Long/short cryptocurrency momentum strategy:
+  - Ranking-based asset selection  
+  - Portfolio construction  
+  - Performance evaluation  
 
-# Additional Files
+- **LLM_Applied_ML_proj.ipynb**  
+  Project exploring the use of Large Language Models in applied machine learning workflows, especially in financial contexts.
 
+- **OptionsCoveredCall.ipynb**  
+  Backtesting a covered call strategy on equity indices:
+  - Option pricing logic  
+  - Strategy returns  
+  - Risk/return trade-offs  
 
+## Documents
+
+- **README.md**  
+  This file.
+
+- **_Reference Letter VP Bank.pdf**  
+  Professional reference letter from VP Bank.
+
+- **_Reference Letter prof. MUNI.pdf**  
+  Academic reference letter from Masaryk University.
+
+## Focus Areas
+
+- Quantitative Finance & Algorithmic Trading  
+- Machine Learning in Finance  
+- Reinforcement Learning for Trading  
+- Risk Management and Portfolio Optimization  
+- Financial Research Backtesting Systems  
+- Explainable and Practical ML Models for Banking  
