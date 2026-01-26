@@ -1,132 +1,50 @@
 # Projects – Quantitative Finance, Machine Learning & Reinforcement Learning
 
-Hi, I’m **Lukas Galeta**. I work at the intersection of quantitative finance, machine learning, and reinforcement learning. My focus is on building realistic, explainable, and research-oriented systems for trading, portfolio management, and decision support in banking and fintech.  
+Hi, I’m **Lukas Galeta**. I work at the intersection of quantitative finance, machine learning, and reinforcement learning, focusing on building realistic, explainable, and research-oriented systems for trading, portfolio management, and decision support in banking and fintech.
 
-This repository serves as both a professional portfolio and a personal research archive. It collects my academic and applied projects in algorithmic trading, ML/RL for financial markets, and quantitative research infrastructure, with an emphasis on reproducibility, sound backtesting, and real-world applicability.
-
-
-# Projects – Quantitative Finance, Machine Learning & Reinforcement Learning
-
-This repository is a curated collection of my academic, research, and applied projects in quantitative finance, algorithmic trading, machine learning, and reinforcement learning. It serves as both a personal research archive and a professional portfolio demonstrating how financial theory, data science, and modern ML techniques can be translated into practical, reproducible systems.
-
-The work emphasizes:
-- rigorous quantitative reasoning,
-- realistic backtesting,
-- research-oriented experimentation,
-- and applicability in banking, fintech, and trading environments.
+This repository is both my professional portfolio and personal research archive. It collects academic and applied projects that translate financial theory and modern ML techniques into practical, reproducible quantitative systems, with emphasis on sound backtesting and real-world applicability.
 
 ---
 
 ## Repository Structure
 
-### CERN ROOT lib
-Experiments and utilities using the CERN ROOT framework, mainly for data analysis, numerical methods, and scientific-style computation.
+- **CERN ROOT lib**  
+  Experiments with CERN ROOT for data analysis and numerical methods.
 
----
+- **Diploma thesis**  
+  Research code, experiments, and documentation related to my diploma thesis.
 
-### Diploma thesis
-Core materials related to my diploma thesis:
-- research code,
-- experiments,
-- analysis,
-- documentation.
+- **Long-short momentum**  
+  Long/short momentum strategies with ranking, portfolio construction, and performance evaluation.
 
-This folder contains my most academically rigorous and structured work.
+- **Options**  
+  Options-based strategies, including covered calls, payoff simulations, and derivatives analysis.
 
----
+- **Quant research framework**  
+  Modular framework for backtesting, strategy design, portfolio management, and reproducible research.
 
-### Long-short momentum
-Implementation of long/short momentum strategies:
-- ranking-based asset selection,
-- portfolio construction,
-- rebalancing rules,
-- performance evaluation,
-- risk-adjusted metrics.
+- **Reinforcement learning – Diploma thesis**  
+  RL trading agents: environment design, reward shaping, and policy evaluation.
 
-Primarily focused on crypto and financial market applications.
+- **Should I buy a flat in Brno?**  
+  Data-driven real estate investment and affordability analysis.
 
----
-
-### Options
-Research and implementation of options-based strategies:
-- covered call strategies,
-- payoff simulations,
-- option pricing logic,
-- derivatives risk/return analysis.
-
-Closely tied to real-world derivatives trading concepts.
-
----
-
-### Quant research framework
-A modular framework for quantitative research:
-- backtesting engine,
-- strategy abstraction,
-- portfolio management,
-- risk control,
-- experiment reproducibility.
-
-Designed to support both classical strategies and ML/RL-driven approaches.
-
----
-
-### Reinforcement learning – Diploma thesis
-Dedicated reinforcement learning implementation for financial markets:
-- environment design,
-- reward shaping,
-- Q-learning / deep RL experiments,
-- policy evaluation,
-- trading agent behavior analysis.
-
-This represents the intersection of my ML specialization and financial modeling.
-
----
-
-### Should I buy a flat in Brno?
-A data-driven real estate investment analysis:
-- mortgage affordability modeling,
-- interest rate scenarios,
-- financial stress testing,
-- macroeconomic context.
-
-Shows application of quantitative methods to personal investment decisions.
-
----
-
-### 🏦 VP Bank KYC advisor demo
-Demonstration project showing how ML/LLMs can support banking workflows:
-- KYC advisory logic,
-- automation concepts,
-- explainability-oriented design,
-- practical fintech applicability.
+- **VP Bank KYC advisor demo**  
+  Demo of ML/LLM-supported KYC advisory workflows in banking.
 
 ---
 
 ## Notebooks
 
-### `LLM_Applied_ML_proj.ipynb`
-Exploration of Large Language Models in applied machine learning:
-- workflow automation,
-- decision-support concepts,
-- financial use cases,
-- integration with traditional ML pipelines.
-
----
-
-## Documents
-
-- **README.md** – Main repository documentation  
-- **_Reference Letter VP Bank.pdf** – Professional reference from VP Bank  
-- **_Reference Letter prof. MUNI.pdf** – Academic reference from Masaryk University  
+- **`LLM_Applied_ML_proj.ipynb`**  
+  Applications of Large Language Models in ML workflows and financial decision support.
 
 ---
 
 ## Core Focus Areas
 
 - Quantitative Finance & Algorithmic Trading  
-- Machine Learning in Finance  
-- Reinforcement Learning for Trading Agents  
+- Machine Learning and Reinforcement Learning in Finance  
 - Portfolio Management & Risk Control  
-- Backtesting Systems & Research Infrastructure  
+- Backtesting and Research Infrastructure  
 - Explainable AI in Banking  
-- Financial Decision Support Systems  
